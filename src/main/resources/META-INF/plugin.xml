@@ -1,0 +1,27 @@
+<idea-plugin>
+    <id>org.example.my-plugin</id>
+    <name>my-bookmark-plugin</name>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">ITMO.toolkits</vendor>
+
+    <description><![CDATA[
+    A simple made plugin for making bookmarks in Project files for better navigation.<br>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="MarkBooks" factoryClass="gui.BookMarkWindowFactory" anchor="right" doNotActivateOnStart="true"></toolWindow>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="actions.CreatingMark" class="actions.CreatingMark" text="Bookmark Plugin" description="Basic stuff, learning API">
+            <keyboard-shortcut keymap="$default" first-keystroke="ctrl BACK_SLASH" second-keystroke="ctrl B"/>
+        </action>
+        <action id="Create Mark" class="actions.CreatingMark" text="Bookmark Plugin" description="Create a Bookmark here">
+            <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+        </action>
+    </actions>
+</idea-plugin>

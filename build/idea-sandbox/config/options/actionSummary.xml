@@ -1,0 +1,88 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1621863289531" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1621863769173" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1621863292456" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1621864573479" />
+    </e>
+    <e n="CloseProject">
+      <i c="4" l="1621861693080" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="65" l="1622220580881" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="3" l="1621863087349" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1621594099629" />
+    </e>
+    <e n="EditorEnter">
+      <i c="22" l="1621864626848" />
+    </e>
+    <e n="EditorLeft">
+      <i c="50" l="1621863070113" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1621864026361" />
+    </e>
+    <e n="EditorRight">
+      <i c="5" l="1621863071169" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1621863058769" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1621588001437" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1621861673794" />
+    </e>
+    <e n="HideSideWindows">
+      <i c="1" l="1621854375523" />
+    </e>
+    <e n="NewClass">
+      <i c="6" l="1621863792455" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1621863280357" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1621863133981" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1621588220885" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1621854355283" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="1" l="1621850772876" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1621857707258" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="3" l="1621861695110" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="1" l="1621857668533" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1621854359168" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="21" l="1622220605783" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="4" l="1622220626281" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="api" path="ActionManager" hit="Basic stuff, learning API" />
+    <option name="basic" path="ActionManager" hit="Basic stuff, learning API" />
+    <option name="learning" path="ActionManager" hit="Basic stuff, learning API" />
+    <option name="stuff" path="ActionManager" hit="Basic stuff, learning API" />
+    <option name="bookmark" path="ActionManager" hit="Bookmark Plugin" />
+    <option name="plugin" path="ActionManager" hit="Bookmark Plugin" />
+    <option name="a" path="ActionManager" hit="Create a Bookmark here" />
+    <option name="bookmark" path="ActionManager" hit="Create a Bookmark here" />
+    <option name="create" path="ActionManager" hit="Create a Bookmark here" />
+    <option name="here" path="ActionManager" hit="Create a Bookmark here" />
+  </configurable>
+</options>
+
